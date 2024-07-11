@@ -567,99 +567,25 @@
       "id": "2vyant8etGUjztiOOLolBdVlChU2",
       "email": "abdullah@gmail.com",
       "name": "Abdullah",
-      "basket": [
-        {
-          "cartId": "eb8c3430-1377-49e4-88c8-fa25fb926640",
-          "id": "1",
-          "image": "tsihrt-tape-details.png",
-          "title": "Tshirt With Tepe Details",
-          "price": 50,
-          "selectedColor": "white",
-          "selectedSize": "XX-Small",
-          "count": 4
-        }
-      ]
+      "basket": []
     },
     {
       "id": "RIkJex06VEYDKIu4rIvaBbFunHG2",
       "email": "talha@gmail.com",
       "name": "Talha",
-      "basket": [
-        {
-          "cartId": "6b0fa89e-a381-48c8-a4e2-3005397a6a9a",
-          "id": "6",
-          "image": "image.png",
-          "title": "Party Shorts",
-          "price": 45,
-          "selectedColor": "pink",
-          "selectedSize": "Large",
-          "count": 1
-        },
-        {
-          "cartId": "4dab555c-af78-49a1-81fc-db82169c3d6f",
-          "id": "6",
-          "image": "image.png",
-          "title": "Party Shorts",
-          "price": 45,
-          "selectedColor": "pink",
-          "selectedSize": "XX-Small",
-          "count": 3
-        }
-      ]
+      "basket": []
     },
     {
       "id": "ToD1fpJ5NhTz6KKSQMBnXssw8dS2",
       "email": "bilal@gmail.com",
       "name": "Bilal",
-      "basket": [
-        {
-          "cartId": "e1f146fa-d1d0-469e-9c28-2b5bc34c6a37",
-          "id": "1",
-          "image": "tsihrt-tape-details.png",
-          "title": "Tshirt With Tepe Details",
-          "price": 50,
-          "selectedColor": "blue",
-          "selectedSize": "X-Small",
-          "count": 1
-        }
-      ]
+      "basket": []
     },
     {
       "id": "2wagZ4OpKgfshMQfonUWSPnW2Lo1",
       "email": "zumre@gmail.com",
       "name": "Zumre",
-      "basket": [
-        {
-          "cartId": "591bdc10-0e57-4089-a31f-63e6dc71a068",
-          "id": "1",
-          "image": "tsihrt-tape-details.png",
-          "title": "Tshirt With Tepe Details",
-          "price": 50,
-          "selectedColor": "blue",
-          "selectedSize": "XX-Small",
-          "count": 1
-        },
-        {
-          "cartId": "183a6169-e2bc-4538-9129-f5e5b8ff5996",
-          "id": "10",
-          "image": "image.png",
-          "title": "Gym T-Shirt",
-          "price": 25,
-          "selectedColor": "gray",
-          "selectedSize": "X-Small",
-          "count": 2
-        },
-        {
-          "cartId": "2700e05e-4a1d-49f4-905d-a5f55aaf6e2c",
-          "id": "2",
-          "image": "skinniy-fit-jean.png",
-          "title": "SKINNY FIT JEANS",
-          "price": 70,
-          "selectedColor": "pink",
-          "selectedSize": "X-Small",
-          "count": 1
-        }
-      ]
+      "basket": []
     }
   ],
   "faq": [
